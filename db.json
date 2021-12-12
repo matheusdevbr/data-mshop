@@ -71,7 +71,15 @@
             "preco": 12,
             "foto": "https://m.media-amazon.com/images/I/61APYfE+uZL._AC_SL1200_.jpg",
             "categoria_id": 3
-        }
+        },
+        {
+            "id": 10,
+            "nome": "Caixa de Bombom Lacta,
+            "descricao": "Caixa de Bombom Lacta Favoritos 250,6G",
+            "preco": 10.9,
+            "foto": "https://img.sitemercado.com.br/produtos/32438c973fb53113704e00f9b09dbc2fc5b658b21866c2ff1adda2c20a90cb87_full.jpg",
+            "categoria_id": 3
+        },
     ],
     "categorias": [
         {
