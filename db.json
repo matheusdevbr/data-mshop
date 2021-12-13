@@ -1,12 +1,12 @@
 {
   "produtos": [
       {
-          "id": 1,
-          "nome": "Playsation 5",
-          "descricao": "Console da Sony com mídia fisica",
-          "preco": 8450,
-          "foto": "https://images.kabum.com.br/produtos/fotos/115737/console-sony-playstation-5_1603798015_g.jpg",
-          "categoria_id": 1
+        "id": 1,
+        "nome": "Playsation 5",
+        "descricao": "Desfrute do carregamento extremamente rápido com o SSD de altíssima velocidade, uma imersão mais profunda com suporte resposta tátil, gatilhos adaptáveis e áudio em 3D1, além de uma geração inédita de jogos incríveis para PlayStation.",
+        "preco": 8450,
+        "foto": "https://images.kabum.com.br/produtos/fotos/115737/console-sony-playstation-5_1603798015_g.jpg",
+        "categoria_id": 1
       },
       {
         "id": 12,
@@ -19,7 +19,7 @@
       {
           "id": 2,
           "nome": "XBOX Series S",
-          "descricao": "Xbox com foco em 1080p",
+          "descricao": "Desempenho de última geração no menor Xbox de todos os tempos. A próxima geração de jogos traz a maior biblioteca digital da história para o menor Xbox de todos os tempos. Com mundos mais dinâmicos, tempos de carregamento mais rápidos e a adição do Xbox Game Pass (vendido separadamente), o Xbox Series S totalmente digital é a melhor combinação de jogos.",
           "preco": 2600,
           "foto": "https://images.kabum.com.br/produtos/fotos/128561/console-microsoft-xbox-series-s-500gb-branco-rrs-00006_1601067301_g.jpg",
           "categoria_id": 1
@@ -27,7 +27,7 @@
       {
           "id": 3,
           "nome": "XBOX Series X",
-          "descricao": "Xbox com foco em qualquer coisa",
+          "descricao": "O Xbox mais rádio e poderoso de todos os tempos. Otimizado para series X|S. Os jogos criados com o kit de desenvolvimento do Xbox Series X|S apresentam tempos de carregamento significativamente reduzidos e visuais impressionantes em até 120 FPS.",
           "preco": 4500,
           "foto": "https://images.kabum.com.br/produtos/fotos/128560/console-microsoft-xbox-series-x-1tb-preto-rrt-00006_1601067024_g.jpg",
           "categoria_id": 1
@@ -75,7 +75,7 @@
       {
           "id": 8,
           "nome": "Coca cola 600ml",
-          "descricao": "",
+          "descricao": "Embalagem plastica de 600ml ideal para beber gelada a qualquer hora, para matar a sede ou para acompanhar suas melhores refeições. Coca-Cola, sinta o sabor!",
           "preco": 7.5,
           "foto": "https://www.clubeextra.com.br/img/uploads/1/18/12034018.jpg",
           "categoria_id": 3
